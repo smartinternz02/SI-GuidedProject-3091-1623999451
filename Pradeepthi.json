@@ -1,0 +1,22 @@
+{
+  "_id": "Pradeepthi",
+  "_rev": "1-620083df1795ac8e565cd7e5ed26089b",
+  "conv": [
+    {
+      "text": "Hello, I'm not happy with your product.There was a damage when it was delivered",
+      "user": "customer"
+    },
+    {
+      "text": "OK, we have done our part.I am not responsible for this",
+      "user": "agent"
+    },
+    {
+      "text": "Well, actually it is having patches and was less attractive",
+      "user": "customer"
+    },
+    {
+      "text": "That is up to to decide while purchasing.",
+      "user": "agent"
+    }
+  ]
+}
